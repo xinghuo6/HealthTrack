@@ -1,0 +1,8 @@
+.gradle/
+build/
+app/build/
+build-offline/
+build-tests/
+local.properties
+.idea/
+*.iml
